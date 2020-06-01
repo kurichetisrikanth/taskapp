@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a38a4b958eafdfcec5273f0504a4710b",
+    "revision": "2b5ebea23a0b24214d16ea2b7a3c8064",
     "url": "/taskapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taskapp/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "cf8da5f1c015feefa1e2",
+    "revision": "6c83a76b0ff07b06076c",
     "url": "/taskapp/static/css/main.ed554b74.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taskapp/static/js/2.7e8ab9e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf8da5f1c015feefa1e2",
-    "url": "/taskapp/static/js/main.28265cd5.chunk.js"
+    "revision": "6c83a76b0ff07b06076c",
+    "url": "/taskapp/static/js/main.b0cf0b08.chunk.js"
   },
   {
     "revision": "bc267c1402c626af473e",
